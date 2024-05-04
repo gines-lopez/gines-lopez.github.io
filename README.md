@@ -12,6 +12,10 @@ También me puedes encontrar en Twitter/X como [@ginesenclase](https://twitter.c
 
 ## Materiales y recursos
 
-- Programación 1º DAM/DAW
-- Entornos de Desarrollo 1º DAM/DAW
-- Programación Multimedia y Dispositivos Móviles 2º DAM
+|Ciclo 	|Curso|Módulo  	|Link  	|
+|---	  |---	|---	      |---	    |
+|DAM/DAW |1º  |Programación |   	|
+|DAM/DAW |1º  |Entornos de Desarrollo |   	|
+|DAM/DAW |1º  |Lenguajes de Marcas y Sistemas de Gestión de la Información |   	|
+|DAM |2º  |Programación Multimedia y Dispositivos Móviles |   	|
+|SMR |2º  |Seguridad Informática |   	|
