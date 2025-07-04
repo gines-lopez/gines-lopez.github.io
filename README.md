@@ -15,7 +15,8 @@ También me puedes encontrar en Twitter/X como [@ginesenclase](https://twitter.c
 |Ciclo 	|Curso|Módulo  	|Link  	|
 |---	  |---	|---	      |---	    |
 |DAM/DAW |1º  |Programación |   	|
-|DAM/DAW |1º  |Entornos de Desarrollo |   	|
-|DAM/DAW |1º  |Lenguajes de Marcas y Sistemas de Gestión de la Información |   	|
-|DAM |2º  |Programación Multimedia y Dispositivos Móviles |   	|
-|SMR |2º  |Seguridad Informática |   	|
+|DAM/DAW |1º  |Entornos de desarrollo |   	|
+|DAM/DAW |1º  |Lenguajes de marcas y sistemas de sestión de la información |   	|
+|DAM |2º  |Programación multimedia y dispositivos móviles |   	|
+|SMR |2º  |Aplicaciones web |   	|
+|SMR |2º  |Seguridad informática |   	|
