@@ -18,5 +18,6 @@ También me puedes encontrar en Twitter/X como [@ginesenclase](https://twitter.c
 |DAM/DAW |1º  |Entornos de desarrollo |   	|
 |DAM/DAW |1º  |Lenguajes de marcas y sistemas de sestión de la información |   	|
 |DAM |2º  |Programación multimedia y dispositivos móviles |   	|
+|DAW |2º  |Desarrollo web en entorno servidor | [DWES](https://gines-lopez.github.io/DWES/)  	|
 |SMR |2º  |Aplicaciones web |   	|
 |SMR |2º  |Seguridad informática |   	|
