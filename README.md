@@ -14,10 +14,10 @@ También me puedes encontrar en Twitter/X como [@ginesenclase](https://twitter.c
 
 |Ciclo 	|Curso|Módulo  	|Link  	|
 |---	  |---	|---	      |---	    |
-|DAM/DAW |1º  |Programación |   	|
+|DAM/DAW |1º  |Programación | [PRG-DAW](https://gines-lopez.github.io/PRG-DAW/)   	|
 |DAM/DAW |1º  |Entornos de desarrollo |   	|
 |DAM/DAW |1º  |Lenguajes de marcas y sistemas de sestión de la información |   	|
 |DAM |2º  |Programación multimedia y dispositivos móviles |   	|
 |DAW |2º  |Desarrollo web en entorno servidor | [DWES](https://gines-lopez.github.io/DWES/)  	|
-|SMR |2º  |Aplicaciones web |   	|
+|SMR |2º  |Aplicaciones web |[AW](https://gines-lopez.github.io/AW/)   	|
 |SMR |2º  |Seguridad informática |   	|
