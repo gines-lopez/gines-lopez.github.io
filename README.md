@@ -14,7 +14,7 @@ También me puedes encontrar en Twitter/X como [@ginesenclase](https://twitter.c
 
 |Ciclo 	|Curso|Módulo  	|Link  	|
 |---	  |---	|---	      |---	    |
-|DAM/DAW |1º  |Programación | [PRG 25/26](https://gines-lopez.github.io/PRG/) [PRG 24/25](https://gines-lopez.github.io/PRG-DAW/)   	|
+|DAM/DAW |1º  |Programación | [PRG 25/26](https://gines-lopez.github.io/PRG/) <br> [PRG 24/25](https://gines-lopez.github.io/PRG-DAW/)   	|
 |DAM/DAW |1º  |Entornos de desarrollo |  [EDE](https://gines-lopez.github.io/EDE/) 	|
 |DAM |2º  |Programación multimedia y dispositivos móviles | [PMDM](https://gines-lopez.github.io/PMDM/)  	|
 |DAM |2º  |Proyecto intermodular | [PI2DAM](https://gines-lopez.github.io/PI2DAM/)  	|
