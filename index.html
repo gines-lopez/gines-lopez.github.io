@@ -40,7 +40,6 @@
     </a>
     <nav class="nav" aria-label="Principal">
       <a href="#modulos">Módulos</a>
-      <!--<a href="#recursos">Recursos</a>-->
       <a href="#faq">Dudas</a>
       <a class="nav-out" href="https://gines.me" rel="me">gines.me ↗</a>
     </nav>
@@ -78,6 +77,36 @@
     </div>
 
     <ul class="grid" id="lista-modulos">
+      <li class="card" data-ciclo="bach">
+        <p class="card-code">PRSI2</p>
+        <h3 class="card-title">Programación, Redes y Sistemas Informáticos II</h3>
+        <p class="card-meta">Bachillerato · 2.º curso</p>
+        <p class="card-desc">Programación, redes y sistemas informáticos para la modalidad de Bachillerato.</p>
+        <div class="card-links">
+          <a class="link-main" href="https://gines-lopez.github.io/PRSI2/">Apuntes →</a>
+        </div>
+      </li>
+
+      <li class="card" data-ciclo="smr">
+        <p class="card-code">RAL</p>
+        <h3 class="card-title">Redes de área local</h3>
+        <p class="card-meta">SMR · 1.º curso</p>
+        <p class="card-desc">Cableado, direccionamiento IP, conmutación y configuración de redes locales.</p>
+        <div class="card-links">
+          <a class="link-main" href="https://gines-lopez.github.io/RAL/">Apuntes →</a>
+        </div>
+      </li>
+
+      <li class="card" data-ciclo="dam">
+        <p class="card-code">DASP</p>
+        <h3 class="card-title">Digitalización aplicada al sistema productivo</h3>
+        <p class="card-meta">DAM · 2.º curso</p>
+        <p class="card-desc">Digitalización de procesos, datos, IoT y automatización en la empresa.</p>
+        <div class="card-links">
+          <a class="link-main" href="https://gines-lopez.github.io/DASP/">Apuntes →</a>
+        </div>
+      </li>
+
       <li class="card" data-ciclo="dam daw">
         <p class="card-code">PRG</p>
         <h3 class="card-title">Programación</h3>
@@ -105,16 +134,6 @@
         <p class="card-desc">Kotlin y Android: interfaces, navegación, datos y publicación de apps.</p>
         <div class="card-links">
           <a class="link-main" href="https://gines-lopez.github.io/PMDM/">Apuntes →</a>
-        </div>
-      </li>
-
-      <li class="card" data-ciclo="dam">
-        <p class="card-code">DASP</p>
-        <h3 class="card-title">Digitalización aplicada al sistema productivo</h3>
-        <p class="card-meta">DAM · 2.º curso</p>
-        <p class="card-desc">Digitalización de procesos, datos, IoT y automatización en la empresa.</p>
-        <div class="card-links">
-          <a class="link-main" href="https://gines-lopez.github.io/DASP/">Apuntes →</a>
         </div>
       </li>
 
@@ -147,74 +166,9 @@
           <a class="link-main" href="https://gines-lopez.github.io/AW/">Apuntes →</a>
         </div>
       </li>
-
-      <li class="card" data-ciclo="smr">
-        <p class="card-code">RAL</p>
-        <h3 class="card-title">Redes de área local</h3>
-        <p class="card-meta">SMR · 1.º curso</p>
-        <p class="card-desc">Cableado, direccionamiento IP, conmutación y configuración de redes locales.</p>
-        <div class="card-links">
-          <a class="link-main" href="https://gines-lopez.github.io/RAL/">Apuntes →</a>
-        </div>
-      </li>
-
-      <li class="card" data-ciclo="bach">
-        <p class="card-code">PRSI2</p>
-        <h3 class="card-title">Programación, Redes y Sistemas Informáticos II</h3>
-        <p class="card-meta">Bachillerato · 2.º curso</p>
-        <p class="card-desc">Programación, redes y sistemas informáticos para la modalidad de Bachillerato.</p>
-        <div class="card-links">
-          <a class="link-main" href="https://gines-lopez.github.io/PRSI2/">Apuntes →</a>
-        </div>
-      </li>
     </ul>
     <p class="vacio" id="vacio" hidden>No imparto nada de ese ciclo ahora mismo.</p>
   </section>
-
-  <!--<section id="recursos" class="section wrap" aria-labelledby="recursos-t">
-    <div class="section-head">
-      <h2 id="recursos-t"><span class="hash">#</span> Recursos y herramientas</h2>
-      <p class="section-sub">Lo que vas a instalar y consultar durante el curso.</p>
-    </div>
-
-    <div class="recursos">
-      <article class="bloque">
-        <h3>Instálalo el primer día</h3>
-        <ul class="lista-links">
-          <li><a href="https://www.oracle.com/java/technologies/downloads/">JDK de Java</a><span>PRG, EDE</span></li>
-          <li><a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA Community</a><span>PRG, EDE</span></li>
-          <li><a href="https://developer.android.com/studio">Android Studio</a><span>PMDM</span></li>
-          <li><a href="https://code.visualstudio.com/">Visual Studio Code</a><span>DWES, AW</span></li>
-          <li><a href="https://git-scm.com/downloads">Git</a><span>Todos</span></li>
-          <li><a href="https://www.apachefriends.org/es/index.html">XAMPP</a><span>DWES, AW</span></li>
-        </ul>
-      </article>
-
-      <article class="bloque">
-        <h3>Documentación oficial</h3>
-        <ul class="lista-links">
-          <li><a href="https://developer.mozilla.org/es/">MDN Web Docs</a><span>HTML, CSS, JS</span></li>
-          <li><a href="https://docs.oracle.com/en/java/javase/21/docs/api/">API de Java</a><span>PRG</span></li>
-          <li><a href="https://kotlinlang.org/docs/home.html">Kotlin Docs</a><span>PMDM</span></li>
-          <li><a href="https://www.php.net/manual/es/">Manual de PHP</a><span>DWES</span></li>
-          <li><a href="https://developer.android.com/docs">Android Developers</a><span>PMDM</span></li>
-          <li><a href="https://devdocs.io/">DevDocs</a><span>Todo junto</span></li>
-        </ul>
-      </article>
-
-      <article class="bloque">
-        <h3>Para practicar y entregar</h3>
-        <ul class="lista-links">
-          <li><a href="https://education.github.com/pack">GitHub Student Pack</a><span>Gratis con tu correo</span></li>
-          <li><a href="https://exercism.org/tracks/java">Exercism</a><span>Ejercicios guiados</span></li>
-          <li><a href="https://www.codewars.com/">Codewars</a><span>Retos por niveles</span></li>
-          <li><a href="https://learngitbranching.js.org/?locale=es_ES">Learn Git Branching</a><span>Git visual</span></li>
-          <li><a href="https://regex101.com/">regex101</a><span>Expresiones regulares</span></li>
-          <li><a href="https://dbdiagram.io/">dbdiagram.io</a><span>Diagramas E-R</span></li>
-        </ul>
-      </article>
-    </div>
-  </section>-->
 
   <section id="faq" class="section wrap" aria-labelledby="faq-t">
     <div class="section-head">
@@ -249,7 +203,7 @@
       </details>
       <details>
         <summary>Tengo una duda fuera de clase, ¿te escribo?</summary>
-        <p>Sí. Escríbeme por el aula virtual o al correo <span class="mail" data-u="g.lopezgarcia2" data-d="edu.gva.es">g.lopezgarcia2 [arroba] edu.gva.es</span>. Cuanto más concreta sea la duda (código, error exacto, qué has probado), más rápida será la respuesta.</p>
+        <p>Sí. Escríbeme por el aula virtual o <span class="mail" data-u="g.lopezgarcia2" data-d="edu.gva.es">por correo electrónico</span>. Cuanto más concreta sea la duda (código, error exacto, qué has probado), más rápida será la respuesta.</p>
       </details>
     </div>
   </section>
@@ -261,7 +215,7 @@
       <p><strong>Ginés López</strong> — profesor de Informática en FP y desarrollador web. Doy clase en DAM, DAW y SMR, y aplico IA generativa en el aula.</p>
       <p class="footer-links">
         <a href="https://gines.me">gines.me</a>
-        <span class="mail" data-u="g.lopezgarcia2" data-d="edu.gva.es">g.lopezgarcia2 [arroba] edu.gva.es</span>
+        <span class="mail" data-u="g.lopezgarcia2" data-d="edu.gva.es">Escríbeme</span>
       </p>
     </div>
     <p class="copy">© <span id="anio">2026</span> Ginés López · Hecho en Murcia 🍋</p>
